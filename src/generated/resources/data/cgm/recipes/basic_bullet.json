@@ -6,12 +6,12 @@
       "item": "minecraft:copper_ingot"
     },
     {
-      "count": 1,
+      "count": 4,
       "tag": "forge:gunpowder"
     }
   ],
   "result": {
-    "count": 64,
+    "count": 16,
     "item": "cgm:basic_bullet"
   }
 }
